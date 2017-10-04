@@ -2,6 +2,8 @@
 # Author: Kelan O'Connor
 
 # This program will check for common Linux server vulnerabilities and attempt to correct them.
+# Conversion from bash to python in progress...
+
 from sys import argv
 import os
 
